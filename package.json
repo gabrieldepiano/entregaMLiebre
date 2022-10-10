@@ -4,7 +4,7 @@
   "main": "app.js",
   "scripts": {
     "test": "nodemon src/app.js",
-    "start": "node src/index.js"
+    "start": "node src/app.js"
   },
   "author": "",
   "license": "ISC",
@@ -12,5 +12,13 @@
     "express": "^4.18.2"
   },
   "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabrieldepiano/entregaMLiebre.git"
+  },
+  "bugs": {
+    "url": "https://github.com/gabrieldepiano/entregaMLiebre/issues"
+  },
+  "homepage": "https://github.com/gabrieldepiano/entregaMLiebre#readme",
   "description": ""
 }
